@@ -1,2 +1,2 @@
 web: sh setup.sh && streamlit run app.py 
-web: heroku ps:scale
+web: heroku ps: scale
